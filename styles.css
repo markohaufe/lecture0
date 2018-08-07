@@ -1,0 +1,50 @@
+
+/* google  css properties documentation */
+
+#header {
+	margin:30px;
+	padding:20px
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+}
+
+h1 {
+	color: black;
+	text-align: center
+}
+
+
+#top {
+	height:50%;
+	width:50% 
+}
+
+
+#middle {
+	
+	font-family: Arial, sans-serif;
+	font-size: 16px
+	
+}
+
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%
+	
+}
+
+
+th, td {
+	border:1px solid black;
+	padding: 5px;
+	text-align: center
+}
+
+th{
+	background-color: lightgray;
+
+	
+}
+
